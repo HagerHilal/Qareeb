@@ -4,7 +4,7 @@ const bodyParser = require ( "body-parser")
 // Chalk for colorful logs
 const chalk = require ("chalk")
 
-// Routes handler
+
 
 const app = express()
 
